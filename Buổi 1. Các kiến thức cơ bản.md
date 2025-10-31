@@ -255,7 +255,7 @@ Dữ liệu trả về thường ở dạng **JSON**, ví dụ:
 }
 ```
 
-### IV. Ví dụ REST API thực tế bằng Spring Boot
+### IV. Ví dụ REST API bằng Spring Boot
 
 ```java
 @RestController
